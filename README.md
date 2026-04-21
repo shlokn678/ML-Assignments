@@ -81,3 +81,6 @@ Data Set: https://www.kaggle.com/mohansacharya/graduate-admissions
 
 13.  Implement K-Means clustering on Iris.csv dataset. Determine the number of clusters using the
 elbow method. Dataset Link: https://www.kaggle.com/datasets/uciml/iris
+
+
+Each assignment folder contains the code and dataset (if used).
