@@ -43,14 +43,14 @@ for the two data sets. Dataset link: https://www.kaggle.com/datasets/uciml/pima-
 diabetes-database
 
 8. Apply appropriate ML algorithm on a dataset collected in a cosmetics shop showing      
-            details of customers to predict customer response for special offer. Create confusion  
-            matrix based on above data and find
+details of customers to predict customer response for special offer. Create confusion  
+matrix based on above data and find
 a. Accuracy
 b. Precision
 c. Recall
 d. F-1 score
-9.  Write a program to do following: 
 
+9.  Write a program to do following: 
 This dataset gives the data of Income and money spent by the customers visiting a shopping mall.
 The data set contains Customer ID, Gender, Age, Annual Income, Spending Score. Therefore, as a
 mall owner you need to find the group of people who are the profitable customers for the mall owner.
@@ -59,7 +59,7 @@ a. Apply Data pre-processing 
 b. Perform data-preparation (Train-Test Split)
 c. Apply Machine Learning Algorithm
 d. Evaluate Model.
-      Data Set: https://www.kaggle.com/shwetabh123/mall-customers
+Data Set: https://www.kaggle.com/shwetabh123/mall-customers
 
 10. Assignment on Regression technique. 
 Download temperature data from the link below.
